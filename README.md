@@ -1,4 +1,3 @@
-# cloud-cost-estimation-project
 # Azure vs AWS Cost Comparison Learning Program
 
 ## Overview
